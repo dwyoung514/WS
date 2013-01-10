@@ -6,6 +6,6 @@ A Simultaneous Turn-Based Strategy Game
 
 ---
 
-Current schedule:
+Current schedule: :scream_cat:
 
-Trying to come up with first prototyp. :scream_cat:
+Trying to come up with first prototyp.
