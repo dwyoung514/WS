@@ -8,4 +8,4 @@ A Simultaneous Turn-Based Strategy Game
 
 Current schedule: :scream_cat:
 
-Trying to come up with first prototyp.
+Trying to come up with first prototype.
