@@ -1,5 +1,5 @@
-Project Something
-=================
+Project Wicked Sovereignty
+==========================
 by Fish 4 Entertainment
 
 A Simultaneous Turn-Based Strategy Game
